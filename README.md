@@ -1,0 +1,3 @@
+Open this HTML file in a browser of your choosing.
+
+Project Link: https://roadmap.sh/projects/single-page-cv
